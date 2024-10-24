@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.kotak-luar {
+    display: flex;
+    justify-content: space-evenly;
+}
